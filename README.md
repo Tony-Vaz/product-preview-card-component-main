@@ -23,6 +23,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tonyvaz/Product-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://tonyvaz.github.io/product-preview-card-component/)
+- Solution URL: [Add solution URL here](https://github.com/Tony-Vaz/product-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://tony-vaz.github.io/product-preview-card-component-main/)
 
